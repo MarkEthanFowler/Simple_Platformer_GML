@@ -17,8 +17,16 @@ if(keyboard_check(vk_up))
 	if(instance_place(x, y + 1, obj_block))
 	{
 		vspeed = jump_height
-		gravity = 0.25
 	}	
+}
+
+if(!instance_place(x, y + 1, obj_block))
+{
+	gravity = 0.25
+}
+else
+{
+	gravity = 0;
 }
 
 if (vspeed > 12)
