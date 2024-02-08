@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"rm_next","order":2,"path":"rooms/rm_next/rm_next.yy",},
     {"name":"spr_climbing","order":1,"path":"sprites/spr_climbing/spr_climbing.yy",},
     {"name":"spr_block","order":2,"path":"sprites/spr_block/spr_block.yy",},
     {"name":"spr_landscape","order":1,"path":"sprites/spr_landscape/spr_landscape.yy",},
