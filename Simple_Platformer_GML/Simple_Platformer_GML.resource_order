@@ -7,6 +7,7 @@
     {"name":"spr_game_over","order":2,"path":"sprites/spr_game_over/spr_game_over.yy",},
     {"name":"spr_done","order":3,"path":"sprites/spr_done/spr_done.yy",},
     {"name":"spr_flyer","order":1,"path":"sprites/spr_flyer/spr_flyer.yy",},
+    {"name":"obj_patroller","order":11,"path":"objects/obj_patroller/obj_patroller.yy",},
     {"name":"spr_monster_dead","order":2,"path":"sprites/spr_monster_dead/spr_monster_dead.yy",},
     {"name":"spr_marker","order":5,"path":"sprites/spr_marker/spr_marker.yy",},
     {"name":"spr_ladder","order":6,"path":"sprites/spr_ladder/spr_ladder.yy",},
