@@ -70,4 +70,9 @@ else
 	{
 		vspeed = 12
 	}
+	
+	if(keyboard_check_pressed(ord("Z")))
+	{
+		instance_create_layer(x, y, "Instances", obj_sword)
+	}
 }

@@ -55,6 +55,7 @@
     {"id":{"name":"spr_mushroom","path":"sprites/spr_mushroom/spr_mushroom.yy",},},
     {"id":{"name":"spr_sword","path":"sprites/spr_sword/spr_sword.yy",},},
     {"id":{"name":"tileset0","path":"tilesets/tileset0/tileset0.yy",},},
+    {"id":{"name":"obj_sword","path":"objects/obj_sword/obj_sword.yy",},},
     {"id":{"name":"snd_get_mushroom","path":"sounds/snd_get_mushroom/snd_get_mushroom.yy",},},
     {"id":{"name":"snd_kill_character","path":"sounds/snd_kill_character/snd_kill_character.yy",},},
     {"id":{"name":"snd_kill_monster","path":"sounds/snd_kill_monster/snd_kill_monster.yy",},},

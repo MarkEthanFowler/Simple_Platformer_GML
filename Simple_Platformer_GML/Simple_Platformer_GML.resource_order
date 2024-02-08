@@ -16,6 +16,7 @@
     {"name":"spr_life","order":9,"path":"sprites/spr_life/spr_life.yy",},
     {"name":"spr_mushroom","order":10,"path":"sprites/spr_mushroom/spr_mushroom.yy",},
     {"name":"spr_sword","order":11,"path":"sprites/spr_sword/spr_sword.yy",},
+    {"name":"obj_sword","order":12,"path":"objects/obj_sword/obj_sword.yy",},
     {"name":"snd_kill_character","order":1,"path":"sounds/snd_kill_character/snd_kill_character.yy",},
     {"name":"snd_kill_monster","order":2,"path":"sounds/snd_kill_monster/snd_kill_monster.yy",},
     {"name":"snd_push","order":3,"path":"sounds/snd_push/snd_push.yy",},
